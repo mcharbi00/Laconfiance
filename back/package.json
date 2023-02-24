@@ -1,0 +1,24 @@
+{
+  "name": "laconfiance",
+  "version": "1.0.0",
+  "description": "Back-end",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcharbi00/Laconfiance.git"
+  },
+  "author": "mcharbi00$",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcharbi00/Laconfiance/issues"
+  },
+  "homepage": "https://github.com/mcharbi00/Laconfiance#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0"
+  }
+}
